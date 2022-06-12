@@ -32,11 +32,15 @@
             }
             body
             {
-                background-image:url('bgjpg.jpg') ;
+                
                 background-size:cover;  
-                color:beige;
+                color:black;
                 
 
+            }
+            h1{
+                padding-top:20px;
+                padding-bottom:25px;
             }
             .customerID,.fullname,.username,.password,.confirm_password,.email,.contact_number,.buttons{
                 max-width: 40%;
@@ -56,15 +60,13 @@
         
         </style>
             </p>
-<form method="post" action="submit.php">
 
-  <div class="form-group">
+
+            <h1 align="center">Customer Sign Up</h1>
+            <form method="post" action="submit.php">
+              <div class="form-group">
   
-  <div class="customerID" >
-  <h1 font-size:10PX ><br/>Customer Information</H1>
-<label >Customer ID</label>
-<input type="text" class="form-control" name="c_id"  placeholder="Enter CustomerID">
-    </div>
+ 
     
     <div class="fullname">
     <label>Full name :</label>
