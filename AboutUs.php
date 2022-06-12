@@ -13,18 +13,18 @@
 <nav class="navbar navbar-inverse">
   <div class="container-fluid">
     <div class="navbar-header">
-      <a class="navbar-brand" href="ForAdmin.php">RideWithUs</a>
+      <a class="navbar-brand" href="mainpage.php">RideWithUs</a>
     </div>
     <ul class="nav navbar-nav">
       <li ><a href="mainpage.php">Home</a></li>
-      <li><a href="create.php">Customer</a></li>
+      <li><a href="login.php">Customer</a></li>
       <li class="active"><a href="AboutUs.php">About Us</a></li>
-      <li><a href="#">Purchase</a></li>
+      <li><a href="loginfirst.php">Purchase</a></li>
     </ul>
   </div>
 </nav>
 
-<img src="RideWithUsLogo.png" alt="Logo of RideWithUs" class="center">
+<img src="LOGO.png" alt="Logo of RideWithUs" class="center">
 <style>
   body{
     color:beige;
