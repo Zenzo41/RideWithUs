@@ -16,10 +16,10 @@
       <a class="navbar-brand" href="ForAdmin.php">RideWithUs</a>
     </div>
     <ul class="nav navbar-nav">
-      <li ><a href="mainpage.php">Home</a></li>
+      <li ><a href="homepage.php">Home</a></li>
       <li class="active"><a href="create.php">Customer</a></li>
       <li ><a href="AboutUs.php">About Us</a></li>
-      <li><a href="#">Purchase</a></li>
+      <li><a href="customerlogin">Purchase</a></li>
     </ul>
   </div>
 </nav>
@@ -102,7 +102,7 @@
             <div class="buttons">
             <input type="submit" class="form-control" name="submit" value="create"><br />
             <input type="reset" class="form-control"  name="reset" value="clear"><br />
-            <u>Already have account?<a href="login.php" >LOGIN! </a></u>
+            <u>Already have account?<a href="customerlogin.php" >LOGIN! </a></u>
             </div>
          </form>
 		 </div>

@@ -21,10 +21,10 @@
       <a class="navbar-brand" href="mainpage.php">RideWithUs</a>
     </div>
     <ul class="nav navbar-nav">
-      <li ><a href="mainpage.php">Home</a></li>
-      <li class="active"><a href="login.php">Customer</a></li>
+      <li ><a href="homepage.php">Home</a></li>
+      <li class="active"><a href="customerlogin.php">Customer</a></li>
       <li ><a href="AboutUs.php">About Us</a></li>
-      <li><a href="loginfirst.php">Purchase</a></li>
+      <li><a href="customerlogin.php">Purchase</a></li>
      
     </ul>
   </div>

@@ -84,13 +84,13 @@ padding-bottom:5%;
 <nav class="navbar navbar-inverse">
   <div class="container-fluid">
     <div class="navbar-header">
-      <a class="navbar-brand" href="mainpage.php">RideWithUs</a>
+      <a class="navbar-brand" href="homepage.php">RideWithUs</a>
     </div>
     <ul class="nav navbar-nav">
-      <li class="active"><a href="mainpage.php">Home</a></li>
-      <li ><a href="login.php">Customer</a></li>
+      <li class="active"><a href="homepage.php">Home</a></li>
+      <li ><a href="customerlogin.php">Customer</a></li>
       <li ><a href="AboutUs.php">About Us</a></li>
-      <li><a href="loginfirst.php">Purchase</a></li>
+      <li><a href="customerlogin.php">Purchase</a></li>
       
      
     
